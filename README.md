@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**ishika164/ishika164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a recent B.Tech graduate in Artificial Intelligence and Data Science (2025) with a strong passion for transforming complex data into meaningful insights. My academic foundation, combined with hands-on project experience, has equipped me with practical skills in Python, SQL, Power BI, and Excel for real-world data analysis.
 
-Here are some ideas to get you started:
+Throughout my graduation, I worked on multiple analytics projects involving data cleaning, pattern discovery, and dashboard creation. I enjoy exploring data, solving problems, and helping businesses make smarter, data-driven decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Technical Skills**:
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL (MySQL)
+- Power BI (Dashboards, DAX, Data Modeling)
+- Excel (Pivot Tables, Charts, Formulas)
+- Data Cleaning, Exploratory Data Analysis (EDA), Reporting
+
+Outside of my professional interests, I enjoy exploring new places, doing artwork, and reading—all of which fuel my creativity and problem-solving mindset. I also love listening to soft music, which keeps me calm, focused, and energized.
+
+**Let’s connect and create insights that matter!** 📊

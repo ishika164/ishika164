@@ -5,8 +5,8 @@ I’m a recent B.Tech graduate in Artificial Intelligence and Data Science (2025
 Throughout my graduation, I worked on multiple analytics projects involving data cleaning, pattern discovery, and dashboard creation. I enjoy exploring data, solving problems, and helping businesses make smarter, data-driven decisions.
 
 💻 **Technical Skills**:
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- SQL (MySQL)
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Streamlit)
+- SQL (MySQL, PostgreSQL)
 - Power BI (Dashboards, DAX, Data Modeling)
 - Excel (Pivot Tables, Charts, Formulas)
 - Data Cleaning, Exploratory Data Analysis (EDA), Reporting
